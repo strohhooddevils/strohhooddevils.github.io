@@ -21,3 +21,16 @@
 html {
     font-family: 'PT Sans Regular', sans-serif;
 }
+
+a {
+    color: #E0091D;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+strong {
+    font-family: 'PT Sans Bold', sans-serif;
+}
