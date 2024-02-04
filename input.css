@@ -22,12 +22,12 @@ html {
     font-family: 'PT Sans Regular', sans-serif;
 }
 
-a {
+main a {
     color: #E0091D;
     text-decoration: underline;
 }
 
-a:hover {
+main a:hover {
     text-decoration: none;
 }
 
