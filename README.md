@@ -15,3 +15,10 @@ mv tailwindcss-macos-arm64 tailwindcss
 ```shell
 ./tailwindcss -i input.css -o index.css --minify
 ```
+
+## Static HTTP server
+
+```shell
+npm install -g http-server
+http-server
+```
